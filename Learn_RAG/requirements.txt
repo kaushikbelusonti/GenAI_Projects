@@ -1,1 +1,7 @@
+#dotenv
+bs4 # Beautiful Soap (fourth major release of Beautiful Soap library), a popular package for web scraping
+langchain
 langchain_community
+langchain_openai
+chromadb
+numpy
